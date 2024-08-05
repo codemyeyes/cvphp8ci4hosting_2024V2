@@ -6,7 +6,7 @@ use CodeIgniter\Config\BaseConfig;
 use CodeIgniter\Session\Handlers\BaseHandler;
 
 //use CodeIgniter\Session\Handlers\FileHandler;
-//use CodeIgniter\Session\Handlers\DatabaseHandler;
+use CodeIgniter\Session\Handlers\DatabaseHandler;
 
 class Session extends BaseConfig
 {
